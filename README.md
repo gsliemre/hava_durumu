@@ -1,5 +1,5 @@
 # hava_durumu
-Güncel hava aporlarını anlık verir şehir şehir
+Güncel hava raporlarını anlık verir şehir şehir
 # 🌤️ Python Hava Durumu Pro (CustomTkinter)
 
 CustomTkinter kütüphanesi ve OpenWeatherMap API kullanılarak geliştirilmiş modern ve şık bir masaüstü hava durumu uygulaması.
