@@ -17,7 +17,7 @@ class WeatherApp(ctk.CTk):
         self.resizable(False, False)
 
         # API Anahtarınız
-        self.API_KEY = "947838da0a30faf08ecde71e8130f2fb"
+        self.API_KEY = "api anahtarınızı girin"
 
         # Arayüz Bileşenleri
         self.setup_ui()
